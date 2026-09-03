@@ -12,7 +12,7 @@ public class Expedition {
     private String EndDate;
     private Integer Estate;
 
-    public Expedition () {
+    public Expedition (Integer id, String amazonBasinSurvey, String amz001, String amazonía, String campIguana, String mariaTorres, String date, String endDate, String active) {
     }
 
     public Expedition(Integer id, String name, String code, String region, String baseCamp, String leader, String startDate, String endDate, Integer estate) {

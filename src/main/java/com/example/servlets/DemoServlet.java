@@ -21,15 +21,7 @@ public class DemoServlet extends HttpServlet {
             throws ServletException, IOException {
 
     }
-    
-    @Override
-    public void init() throws ServletException {
-        super.init();
-    }
 
-    @Override
-    protected void doGet(HttpServletRequest request, HttpServletResponse response)
-            throws ServletException, IOException {
 
     }
 }
